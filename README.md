@@ -22,4 +22,4 @@ Clone the repository and open `index.html` in your browser.
 ### Connect
 - [GitHub](https://github.com/AtharvaBarve)
 - Email — barveatharva57@gmail.com
-- 
+  
